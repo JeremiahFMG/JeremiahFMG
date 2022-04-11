@@ -1,6 +1,6 @@
 - 👋 Kia ora, I’m @JeremiahFMG
 - 👀 I’m interested in scalable practice and performance to reduce our impact on Papatuanuku 🌿
-- 🌱 I’m currently learning Terraform, Azure native, how to replace Boomi 🛠
+- 🌱 I’m currently learning Terraform, Azure native and how to replace Boomi 🛠
 - 👨‍💻 Love solving problems through code, innovating & building new.
 
 <!---
